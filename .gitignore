@@ -5,3 +5,13 @@ dist/
 *.tsbuildinfo
 .vscode/
 .DS_Store
+node_modules/
+
+# TypeScript generated files
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
+
+# Keep TypeScript source files
+!*.ts
