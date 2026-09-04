@@ -79,4 +79,3 @@ type username = string | number;
 
 let firstname : username = "chandra";
 let lastname : username = "Kanth";
-
